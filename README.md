@@ -33,7 +33,7 @@ Here are some introductory DP problems that help you understand the concept well
 
 [Dividing Coins](https://vjudge.net/problem/UVA-562/origin)
 
-[Barecode](https://codeforces.com/problemset/problem/225/C)
+[Barcode](https://codeforces.com/problemset/problem/225/C)
 
 [Easy Longest Increasing Subsequence](https://www.spoj.com/problems/ELIS/en/)
 
@@ -44,5 +44,9 @@ Here are some introductory DP problems that help you understand the concept well
 [Atcoder Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e?lang=en)
 
 [Dima and Salad](https://codeforces.com/problemset/problem/366/C)
+
+[K-Tree](https://codeforces.com/problemset/problem/431/C)
+
+[Masmokh and ACM](https://codeforces.com/problemset/problem/414/B)
 
 [Hard Problems](https://codeforces.com/problemset/problem/706/C)
