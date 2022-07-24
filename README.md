@@ -54,4 +54,4 @@ Here are some introductory DP videos and problems that help you understand the c
 
 [Atcoder Grid1](https://atcoder.jp/contests/dp/tasks/dp_h)
 
-[Hard Problems](https://codeforces.com/problemset/problem/706/C)
+[Hard Problem](https://codeforces.com/problemset/problem/706/C)
