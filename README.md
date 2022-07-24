@@ -38,6 +38,8 @@ Here are some introductory DP videos and problems that help you understand the c
 
 [Dividing Coins](https://vjudge.net/problem/UVA-562/origin)
 
+[Pokémon Army (easy version)](https://codeforces.com/contest/1420/problem/C1)
+
 [Barcode](https://codeforces.com/problemset/problem/225/C)
 
 [String to Palindrome](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1680)
