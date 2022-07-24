@@ -21,6 +21,8 @@ Here are some introductory DP problems that help you understand the concept well
 
 [Atocder Vacations](https://atcoder.jp/contests/dp/tasks/dp_c)
 
+[Easy Longest Increasing Subsequence](https://www.spoj.com/problems/ELIS/en/)
+
 [Atocder Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d)
 
 [Princess Farida](https://www.spoj.com/problems/FARIDA/)
@@ -35,8 +37,6 @@ Here are some introductory DP problems that help you understand the concept well
 
 [Barcode](https://codeforces.com/problemset/problem/225/C)
 
-[Easy Longest Increasing Subsequence](https://www.spoj.com/problems/ELIS/en/)
-
 [String to Palindrome](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1680)
 
 [Philosophers Stone](https://www.spoj.com/problems/BYTESM2/en/)
@@ -44,6 +44,8 @@ Here are some introductory DP problems that help you understand the concept well
 [Atcoder Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e?lang=en)
 
 [Dima and Salad](https://codeforces.com/problemset/problem/366/C)
+
+[Coin Change](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=615)
 
 [K-Tree](https://codeforces.com/problemset/problem/431/C)
 
