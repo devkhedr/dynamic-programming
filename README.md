@@ -51,4 +51,6 @@ Here are some introductory DP problems that help you understand the concept well
 
 [Masmokh and ACM](https://codeforces.com/problemset/problem/414/B)
 
+[Grid1](https://atcoder.jp/contests/dp/tasks/dp_h)
+
 [Hard Problems](https://codeforces.com/problemset/problem/706/C)
