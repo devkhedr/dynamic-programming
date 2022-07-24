@@ -4,6 +4,8 @@ Here are some introductory DP videos and problems that help you understand the c
 - ## Videos:
 [Introduction, iterative vs.resucrsive dp](https://www.youtube.com/watch?v=YBSt1jYwVfU)
 
+[What's dynamic programming](https://www.youtube.com/watch?v=JC5oed1OS3U&list=PLR5x_RGTMNNXEAKRFTSpQ1QMwEAUcSEXO&index=2)
+
 [DP Introduction1](https://www.youtube.com/watch?v=gFdP6X4CyKU&list=PLPt2dINI2MIattDutu7IOAMlUuLeN8k2p)
 
 [5 Dp problems with solutions](https://www.youtube.com/watch?v=qnsYIhyfm1U&list=PLR5x_RGTMNNXEAKRFTSpQ1QMwEAUcSEXO&index=4)
