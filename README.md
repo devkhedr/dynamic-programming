@@ -1,5 +1,5 @@
 # Dynamic Programming
-Here are some introductory DP problems that help you understand the concept well.
+Here are some introductory DP videos and problems that help you understand the concept very well and to be able to solve Easy-Medium dp problems.
 
 - ## Videos:
 [Introduction, iterative vs.resucrsive dp](https://www.youtube.com/watch?v=YBSt1jYwVfU)
