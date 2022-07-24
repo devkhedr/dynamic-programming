@@ -2,7 +2,7 @@
 Here are some introductory DP videos and problems that help you understand the concept very well.
 
 - ## Videos:
-[Introduction, iterative vs.resucrsive dp](https://www.youtube.com/watch?v=YBSt1jYwVfU)
+[Introduction, iterative vs. resucrsive dp](https://www.youtube.com/watch?v=YBSt1jYwVfU)
 
 [What's dynamic programming](https://www.youtube.com/watch?v=JC5oed1OS3U&list=PLR5x_RGTMNNXEAKRFTSpQ1QMwEAUcSEXO&index=2)
 
