@@ -1,0 +1,43 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+#define ll long long
+#define ull unsigned long long
+#define all(x) (x).begin(), (x).end()
+#define clr(v,val) memset(v,val,sizeof(v));
+
+const ll mod = 1e9 + 7;
+const ll OO = 0x3F3F3F3F;
+const ll N  = 1e5+1, M = 10001;
+
+int n,k;
+int a[101], b[101];
+int dp[101][100002];
+int solve(int i, int sum)
+{
+    if(i == n)
+    {
+        if(sum == 0) return 0;
+        return -1e9;
+    }
+    int &ret = dp[i][sum];
+    if(~ret) return ret;
+    ret = max(solve(i+1, sum), solve(i+1, sum+a[i] - (b[i]*k))+a[i]);
+    return ret;
+}
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+    clr(dp, -1);
+    cin >> n >> k;
+    for(int i=0;i<n;i++)
+        cin >> a[i];
+    for(int i=0;i<n;i++)
+        cin >> b[i];
+    int x = solve(0,0);
+    if(x <= 0)cout << -1;
+    else cout << x;
+    return 0;
+}
