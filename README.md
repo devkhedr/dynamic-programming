@@ -37,3 +37,12 @@ Here are some introductory DP problems that help you understand the concept well
 
 [Easy Longest Increasing Subsequence](https://www.spoj.com/problems/ELIS/en/)
 
+[String to Palindrome](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1680)
+
+[Philosophers Stone](https://www.spoj.com/problems/BYTESM2/en/)
+
+[Atcoder Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e?lang=en)
+
+[Dima and Salad](https://codeforces.com/problemset/problem/366/C)
+
+[Hard Problems](https://codeforces.com/problemset/problem/706/C)
