@@ -15,15 +15,15 @@ Here are some introductory DP problems that help you understand the concept well
 
 [Subset Sum Problem](https://www.techiedelight.com/subset-sum-problem/)
 
-[Atocder Frog1](https://atcoder.jp/contests/dp/tasks/dp_a)
+[Atcoder Frog1](https://atcoder.jp/contests/dp/tasks/dp_a)
 
-[Atocder Frog2](https://atcoder.jp/contests/dp/tasks/dp_b)
+[Atcoder Frog2](https://atcoder.jp/contests/dp/tasks/dp_b)
 
-[Atocder Vacations](https://atcoder.jp/contests/dp/tasks/dp_c)
+[Atcoder Vacations](https://atcoder.jp/contests/dp/tasks/dp_c)
 
 [Easy Longest Increasing Subsequence](https://www.spoj.com/problems/ELIS/en/)
 
-[Atocder Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d)
+[Atcoder Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d)
 
 [Princess Farida](https://www.spoj.com/problems/FARIDA/)
 
@@ -51,6 +51,6 @@ Here are some introductory DP problems that help you understand the concept well
 
 [Masmokh and ACM](https://codeforces.com/problemset/problem/414/B)
 
-[Grid1](https://atcoder.jp/contests/dp/tasks/dp_h)
+[Atcoder Grid1](https://atcoder.jp/contests/dp/tasks/dp_h)
 
 [Hard Problems](https://codeforces.com/problemset/problem/706/C)
