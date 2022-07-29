@@ -12,7 +12,6 @@ Here are some introductory DP videos and problems that help you understand the c
 
 [DP Subset Style](https://www.youtube.com/watch?v=vAqaki1BhS0&list=PLPt2dINI2MIattDutu7IOAMlUuLeN8k2p&index=3)
 
-
 - ## Problems:
 [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 
