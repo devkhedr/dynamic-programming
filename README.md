@@ -60,3 +60,7 @@ Here are some introductory DP videos and problems that help you understand the c
 [ABC-I Hate Non-integer Number](https://atcoder.jp/contests/abc262/tasks/abc262_d)
 
 [Hard Problem](https://codeforces.com/problemset/problem/706/C)
+
+[Atcoder LCS](https://atcoder.jp/contests/dp/tasks/dp_f?lang=en)
+
+[Atcoder Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g?lang=en)
